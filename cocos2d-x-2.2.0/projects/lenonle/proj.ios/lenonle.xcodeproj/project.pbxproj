@@ -2078,8 +2078,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"\\\"$(SRCROOT)/../../../cocos2dx/platform/third_party/ios/libraries\\\"",
 					"\\\"$(SRCROOT)/../../../external/libwebsockets/ios/lib\\\"",
-					"/Users/admin/Desktop/github/aalgnaqjrp317/cocos2d-x-2.2.0/cocos2dx/platform/third_party/ios/libraries",
-					"/Users/admin/Desktop/github/aalgnaqjrp317/cocos2d-x-2.2.0/external/libwebsockets/ios/lib",
+					"/Users/liuyuye/Desktop/aalgnaqjrp317/cocos2d-x-2.2.0/cocos2dx/platform/third_party/ios/libraries",
+					"/Users/liuyuye/Desktop/aalgnaqjrp317/cocos2d-x-2.2.0/external/libwebsockets/ios/lib",
 				);
 				OTHER_CFLAGS = "-O2";
 				PRODUCT_NAME = lenonle;
@@ -2128,8 +2128,8 @@
 				LIBRARY_SEARCH_PATHS = (
 					"\\\"$(SRCROOT)/../../../cocos2dx/platform/third_party/ios/libraries\\\"",
 					"\\\"$(SRCROOT)/../../../external/libwebsockets/ios/lib\\\"",
-					"/Users/admin/Desktop/github/aalgnaqjrp317/cocos2d-x-2.2.0/cocos2dx/platform/third_party/ios/libraries",
-					"/Users/admin/Desktop/github/aalgnaqjrp317/cocos2d-x-2.2.0/external/libwebsockets/ios/lib",
+					"/Users/liuyuye/Desktop/aalgnaqjrp317/cocos2d-x-2.2.0/cocos2dx/platform/third_party/ios/libraries",
+					"/Users/liuyuye/Desktop/aalgnaqjrp317/cocos2d-x-2.2.0/external/libwebsockets/ios/lib",
 				);
 				PRODUCT_NAME = lenonle;
 				PROVISIONING_PROFILE = "";

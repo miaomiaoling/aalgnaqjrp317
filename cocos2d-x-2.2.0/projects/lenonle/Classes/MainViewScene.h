@@ -22,6 +22,12 @@ protected:
     // customer center callback
     void customerCenterBtnCallBack(CCObject* pSender);
     
+    void getData();
+    
+    void httpReqFinished(CCNode* node,CCObject* obj);
+    
+    void parserJson(std::string detail);
+    
     // implement the "static node()" method manually
     CREATE_FUNC(MainView);
 };
